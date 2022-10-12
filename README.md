@@ -8,7 +8,7 @@
       <b>
         Hello There
       <br>
-        I'm Abel, a UM student, I like to learn.
+        I'm Abel, a student of Ing. This repository is from UM.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
